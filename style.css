@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(rgb(255, 232, 255) 0%, rgb(210, 230, 255) 100%);
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    box-shadow:4px 4px 4px rgb(220, 159, 255);
+    font-size: 20px;
+}
+
+.heading_div {
+    padding: 14px;
+    float: none;
+    font-size: 32px;
+    background: white ; 
+    border-radius: 20px; 
+    color: rgb(148, 196, 255);
+    box-shadow: 4px 4px 4px rgb(255, 194, 252);
+}
+
+.heading_div2 {
+    font-size: 14px ;
+}
+
+.result_para_tag {
+    white-space: pre-line;
+    box-shadow: 4px 4px 4px rgb(255, 194, 252);
+    font-size: 20px;
+    height: 57px;
+}
+
+canvas {
+  border: 4px solid rgb(220, 159, 255);
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px rgb(148, 196, 255);
+  margin-top: 170px;
+}
+
+.copy_right_footer {
+    font-size: 20px;
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(255, 194, 252);
+    line-height: 4;
+    text-align: center;
+}
